@@ -1,3 +1,10 @@
+"""
+Author: Akankshya Mohanty
+Mentor & Reviewer: Rajani Vanarse
+#*******************************************************************
+#Copyright (C) 2023 Adino Labs
+#*******************************************************************
+"""
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt 

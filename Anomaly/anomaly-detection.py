@@ -1,3 +1,10 @@
+"""
+Author: Akankshya Mohanty
+Mentor & Reviewer: Rajani Vanarse
+#*******************************************************************
+#Copyright (C) 2023 Adino Labs
+#*******************************************************************
+"""
 #importing the libraries
 import numpy as np
 import pandas as pd
